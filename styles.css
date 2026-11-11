@@ -1,19 +1,23 @@
 /*  your css code here. If applicable */
 
-h1 {
-    text-align: center;
-}
 
-.middle {
+/* Table styling */
+table {
     border: 1px solid black;
     border-spacing: 1px;
 }
 
-.middle td {
+td {
     border: 1px solid black;
     padding: 1px;
 }
 
+/* Heading */
+h1 {
+    text-align: center;
+}
+
+/* Table alignment */
 .center {
     text-align: center;
 }
@@ -22,6 +26,7 @@ h1 {
     text-align: right;
 }
 
+/* Background colors */
 .green {
     background-color: green;
 }
@@ -30,6 +35,7 @@ h1 {
     background-color: blue;
 }
 
+/* Image */
 #t-image img {
     max-width: 200px;
 }
